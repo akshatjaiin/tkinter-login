@@ -14,8 +14,8 @@ This project is a **Simple Login System** built using Python's Tkinter library. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tkinter-login.git
-   cd tkinter-login-system
+   git clone https://github.com/akshatjaiin/tkinter-login.git
+   cd tkinter-login
 Ensure Python is installed:
 
 This project is compatible with Python 3.x. You can check your Python version by running:
@@ -51,3 +51,5 @@ User Management: Add functionality for password recovery and user deletion.
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss improvements or features.
 
 
+![image](https://github.com/user-attachments/assets/899c675d-1594-4580-bf9d-602e3bf84464)
+![image](https://github.com/user-attachments/assets/01e3ab3b-65aa-4696-ab4c-e6b386789e14)
